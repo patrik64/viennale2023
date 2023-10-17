@@ -1558,6 +1558,426 @@
         }
       ],
       "image": "sailor.png"
+    },
+    {
+      "id": 53,
+      "name": "Priscilla",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2023",
+          "time": "13:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2023",
+          "time": "15:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/priscilla"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt22041854"
+        }
+      ],
+      "image": "priscilla.png"
+    },
+    {
+      "id": 54,
+      "name": "Coup de chance",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2023",
+          "time": "15:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2023",
+          "time": "23:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/coup-de-chance"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15140278"
+        }
+      ],
+      "image": "coup.png"
+    },
+    {
+      "id": 55,
+      "name": "Europa",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2023",
+          "time": "18:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "15:30",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/europa"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26255954"
+        }
+      ],
+      "image": "europa.png"
+    },
+    {
+      "id": 56,
+      "name": "Anatomie d'une chute",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "23.10.2023",
+          "time": "20:45",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "31.10.2023",
+          "time": "13:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/anatomie-dune-chute"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt17009710"
+        }
+      ],
+      "image": "fall.png"
+    },
+    {
+      "id": 57,
+      "name": "Wu yue xue",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2023",
+          "time": "14:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Urania",
+          "date": "24.10.2023",
+          "time": "16:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/wu-yue-xue"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28449053"
+        }
+      ],
+      "image": "snow.png"
+    },
+    {
+      "id": 58,
+      "name": "Nouveau monde! (Le Monde à nouveau)",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2023",
+          "time": "20:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "31.10.2023",
+          "time": "13:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nouveau-monde-le-monde-nouveau"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28660274"
+        }
+      ],
+      "image": "world.png"
+    },
+    {
+      "id": 59,
+      "name": "Mars Express",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2023",
+          "time": "23:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "11:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mars-express"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26915336"
+        }
+      ],
+      "image": "mars.png"
+    },
+    {
+      "id": 60,
+      "name": "Xue yun",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2023",
+          "time": "11:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/xue-yun"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26441800"
+        }
+      ],
+      "image": "absence.png"
+    },
+    {
+      "id": 61,
+      "name": "Xue bao",
+      "score": "6.0",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2023",
+          "time": "13:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2023",
+          "time": "11:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/xue-bao"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21223152"
+        }
+      ],
+      "image": "leopard.png"
+    },
+    {
+      "id": 62,
+      "name": "Aku wa sonzai shinai",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2023",
+          "time": "16:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2023",
+          "time": "18:15",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/aku-wa-sonzai-shinai"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28490044"
+        }
+      ],
+      "image": "evil.png"
+    },
+    {
+      "id": 63,
+      "name": "Menus Plaisirs - Les Troisgros",
+      "score": "8.1",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "23.10.2023",
+          "time": "19:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2023",
+          "time": "10:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/menus-plaisirs-les-troisgros"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28494786"
+        }
+      ],
+      "image": "troisgros.png"
+    },
+    {
+      "id": 64,
+      "name": "La Sagrada Familia",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "23.10.2023",
+          "time": "11:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/sagrada-familia"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0480459"
+        }
+      ],
+      "image": "sagrada.png"
+    },
+    {
+      "id": 65,
+      "name": "In Our Day",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "23.10.2023",
+          "time": "14:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2023",
+          "time": "20:45",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/our-day"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27541074"
+        }
+      ],
+      "image": "day.png"
+    },
+    {
+      "id": 66,
+      "name": "El zapato chino",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "23.10.2023",
+          "time": "16:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/zapato-chino"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0199166"
+        }
+      ],
+      "image": "zapato.png"
     }
     
 ]
