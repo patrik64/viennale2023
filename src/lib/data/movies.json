@@ -1258,6 +1258,96 @@
         }
       ],
       "image": "pirates.png"
+    },
+    {
+      "id": 43,
+      "name": "Anselm",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "22.10.2023",
+          "time": "12:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "25.10.2023",
+          "time": "16:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/anselm-das-rauschen-der-zeit"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27502250"
+        }
+      ],
+      "image": "anselm.png"
+    },
+    {
+      "id": 44,
+      "name": "Bai ta zhi guang",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "22.10.2023",
+          "time": "15:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2023",
+          "time": "16:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/bai-ta-zhi-guang"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26441793"
+        }
+      ],
+      "image": "tower.png"
+    },
+    {
+      "id": 45,
+      "name": "Club Zero",
+      "score": "5.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "22.10.2023",
+          "time": "18:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2023",
+          "time": "15:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/club-zero"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18235146"
+        }
+      ],
+      "image": "club.png"
     }
     
 ]
