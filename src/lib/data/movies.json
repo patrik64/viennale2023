@@ -1,0 +1,1264 @@
+[
+    {
+      "id": 1,
+      "name": "Magyarázat mindenre",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "19.10.2023",
+          "time": "19:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "19.10.2023 ",
+          "time": "20:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/magyarazat-mindenre"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27788968"
+        }
+      ],
+      "image": "explanation.png"
+    },
+    {
+      "id": 2,
+      "name": "She came to me",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "20.10.2023",
+          "time": "13:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2023",
+          "time": "15:45",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/she-came-me"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt6689014"
+        }
+      ],
+      "image": "shecame.png"
+    },
+    {
+      "id": 3,
+      "name": "Kimitachi wa do ikiru ka",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "20.10.2023",
+          "time": "15:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2023",
+          "time": "21:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/kimitachi-wa-do-ikiru-ka"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt6587046"
+        }
+      ],
+      "image": "heron.png"
+    },
+    {
+      "id": 4,
+      "name": "Stillstand",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "20.10.2023",
+          "time": "18:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "24.10.2023",
+          "time": "15:45",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/stillstand"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": ""
+        }
+      ],
+      "image": "stillstand.png"
+    },
+    {
+      "id": 5,
+      "name": "Eureka",
+      "score": "6.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "20.10.2023",
+          "time": "21:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "22.10.2023",
+          "time": "17:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/eureka-0"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt12965010"
+        }
+      ],
+      "image": "eureka.png"
+    },
+    {
+      "id": 6,
+      "name": "Los delincuentes",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "20.10.2023",
+          "time": "11:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "21.10.2023",
+          "time": "21:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/delincuentes"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt18558306"
+        }
+      ],
+      "image": "delinquents.png"
+    },
+    {
+      "id": 7,
+      "name": "Robot Dreams",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "20.10.2023",
+          "time": "11:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "21.10.2023",
+          "time": "21:15",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/robot-dreams"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13429870"
+        }
+      ],
+      "image": "robot.png"
+    },
+    {
+      "id": 8,
+      "name": "Music",
+      "score": "5.7",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "20.10.2023",
+          "time": "17:45",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "21.10.2023",
+          "time": "21:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/music"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15547924"
+        }
+      ],
+      "image": "music.png"
+    },
+    {
+      "id": 9,
+      "name": "BlackBerry",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "20.10.2023",
+          "time": "20:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "22.10.2023",
+          "time": "23:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/blackberry"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21867434"
+        }
+      ],
+      "image": "blackberry.png"
+    },
+    {
+      "id": 10,
+      "name": "Le Procès Goldman",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "20.10.2023",
+          "time": "23:15",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "21.10.2023",
+          "time": "13:45",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/proces-goldman"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt16160622"
+        }
+      ],
+      "image": "goldman.png"
+    },
+    {
+      "id": 11,
+      "name": "Crowrã",
+      "score": "5.8",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "20.10.2023",
+          "time": "11:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2023",
+          "time": "13:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/crowra"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27502245"
+        }
+      ],
+      "image": "crowra.png"
+    },
+    {
+      "id": 12,
+      "name": "El eco",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "20.10.2023",
+          "time": "13:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "29.10.2023",
+          "time": "23:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/eco"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26448953"
+        }
+      ],
+      "image": "echo.png"
+    },
+    {
+      "id": 13,
+      "name": "Ricardo et la Peinture",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "20.10.2023",
+          "time": "16:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "30.10.2023",
+          "time": "16:00",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ricardo-et-la-peinture"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28300011"
+        }
+      ],
+      "image": "ricardo.png"
+    },
+    {
+      "id": 14,
+      "name": "Augure",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "20.10.2023",
+          "time": "18:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2023",
+          "time": "13:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/augure"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21086802"
+        }
+      ],
+      "image": "augure.png"
+    },
+    {
+      "id": 15,
+      "name": "Tótem",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "20.10.2023",
+          "time": "21:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2023",
+          "time": "15:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/totem"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26315142"
+        }
+      ],
+      "image": "totem.png"
+    },
+    {
+      "id": 16,
+      "name": "Chile, la memoria obstinada",
+      "score": "7.8",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "20.10.2023",
+          "time": "11:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/chile-la-memoria-obstinada"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0140894"
+        }
+      ],
+      "image": "chile.png"
+    },
+    {
+      "id": 17,
+      "name": "Mademoiselle Kenopsia",
+      "score": "4.7",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "20.10.2023",
+          "time": "13:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "28.10.2023",
+          "time": "21:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mademoiselle-kenopsia"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28254671"
+        }
+      ],
+      "image": "kenopsia.png"
+    },
+    {
+      "id": 18,
+      "name": "Return to Reason",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "20.10.2023",
+          "time": "18:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2023",
+          "time": "16:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/return-reason"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27656132"
+        }
+      ],
+      "image": "reason.png"
+    },
+    {
+      "id": 19,
+      "name": "Zinzindurrunkarratz",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "20.10.2023",
+          "time": "21:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "22.10.2023",
+          "time": "13:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/zinzindurrunkarratz"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt29118483"
+        }
+      ],
+      "image": "zinzin.png"
+    },
+    {
+      "id": 20,
+      "name": "Qingchun (chun)",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "20.10.2023",
+          "time": "11:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2023",
+          "time": "20:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/qingchun-chun"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt8469104"
+        }
+      ],
+      "image": "youth.png"
+    },
+    {
+      "id": 21,
+      "name": "El Realismo Socialista",
+      "score": "7.7",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "20.10.2023",
+          "time": "18:30",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "02.12.2023",
+          "time": "18:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/realismo-socialista"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0070596"
+        }
+      ],
+      "image": "socialista.png"
+    },
+    {
+      "id": 22,
+      "name": "Dearest Fiona",
+      "score": "7.4",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "20.10.2023",
+          "time": "21:00",
+          "weekday": "Friday"
+        },
+        {
+          "kino": "Metro",
+          "date": "21.10.2023",
+          "time": "13:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/dearest-fiona"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26219766"
+        }
+      ],
+      "image": "fiona.png"
+    },
+    {
+      "id": 23,
+      "name": "Le grand chariot",
+      "score": "6.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "21.10.2023",
+          "time": "12:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "28.10.2023",
+          "time": "15:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/grand-chariot"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15531718"
+        }
+      ],
+      "image": "chariot.png"
+    },
+    {
+      "id": 25,
+      "name": "Kaibutsu",
+      "score": "8.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "21.10.2023",
+          "time": "15:15",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "29.10.2023",
+          "time": "10:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/kaibutsu"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt23736044"
+        }
+      ],
+      "image": "monster.png"
+    },
+    {
+      "id": 26,
+      "name": "Roter Himmel",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "21.10.2023",
+          "time": "18:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2023",
+          "time": "20:45",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/roter-himmel"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26440619"
+        }
+      ],
+      "image": "afire.png"
+    },
+    {
+      "id": 27,
+      "name": "Kuru otlar üstüne",
+      "score": "8.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "21.10.2023",
+          "time": "20:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "22.10.2023",
+          "time": "11:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/kuru-otlar-ustune"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt13231544"
+        }
+      ],
+      "image": "dry.png"
+    },
+    {
+      "id": 28,
+      "name": "Un prince",
+      "score": "5.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "12:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "24.10.2023",
+          "time": "11:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-prince"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27706804"
+        }
+      ],
+      "image": "prince.png"
+    },
+    {
+      "id": 29,
+      "name": "A Invenção do Outro",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "14:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro",
+          "date": "22.10.2023",
+          "time": "21:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/invencao-do-outro"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27127118"
+        }
+      ],
+      "image": "outro.png"
+    },
+    {
+      "id": 30,
+      "name": "Adentro mío estoy bailando",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "17:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro",
+          "date": "22.10.2023",
+          "time": "13:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/adentro-mio-estoy-bailando"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26448952"
+        }
+      ],
+      "image": "klezmer.png"
+    },
+    {
+      "id": 31,
+      "name": "LaRoy",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2023",
+          "time": "18:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/laroy"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt20102596"
+        }
+      ],
+      "image": "laroy.png"
+    },
+    {
+      "id": 31,
+      "name": "LaRoy",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "20:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "22.10.2023",
+          "time": "18:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/laroy"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt20102596"
+        }
+      ],
+      "image": "laroy.png"
+    },
+    {
+      "id": 32,
+      "name": "Hokage",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "23:15",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "27.10.2023",
+          "time": "13:30",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/hokage"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28497692"
+        }
+      ],
+      "image": "hokage.png"
+    },
+    {
+      "id": 33,
+      "name": "Hokage",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "21.10.2023",
+          "time": "23:15",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Urania",
+          "date": "27.10.2023",
+          "time": "13:30",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/hokage"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28497692"
+        }
+      ],
+      "image": "hokage.png"
+    },
+    {
+      "id": 34,
+      "name": "Un andantino",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "21.10.2023",
+          "time": "13:45",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/un-andantino"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27514631"
+        }
+      ],
+      "image": "andantino.png"
+    },
+    {
+      "id": 35,
+      "name": "Les Meutes",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "21.10.2023",
+          "time": "16:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "31.10.2023",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/meutes"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt25750836"
+        }
+      ],
+      "image": "hounds.png"
+    },
+    {
+      "id": 36,
+      "name": "Retratos fantasmas",
+      "score": "8.0",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "21.10.2023",
+          "time": "18:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro",
+          "date": "29.10.2023",
+          "time": "11:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/retratos-fantasmas"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27502227"
+        }
+      ],
+      "image": "ghosts.png"
+    },
+    {
+      "id": 37,
+      "name": "Valparaíso mi amor",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "21.10.2023",
+          "time": "11:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/valparaiso-mi-amor"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0065165"
+        }
+      ],
+      "image": "valparaiso.png"
+    },
+    {
+      "id": 38,
+      "name": "Clorindo Testa",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "21.10.2023",
+          "time": "16:15",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2023",
+          "time": "12:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/clorindo-testa"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt23182000"
+        }
+      ],
+      "image": "clorindo.png"
+    },
+    {
+      "id": 39,
+      "name": "El Chacal de Nahueltoro",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "21.10.2023",
+          "time": "18:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/chacal-de-nahueltoro"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0064147"
+        }
+      ],
+      "image": "jackal.png"
+    },
+    {
+      "id": 40,
+      "name": "Bên trong vỏ kén vàng",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "21.10.2023",
+          "time": "21:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Metro",
+          "date": "30.10.2023",
+          "time": "10:15",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ben-trong-vo-ken-vang"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt10399622"
+        }
+      ],
+      "image": "shell.png"
+    },
+    {
+      "id": 41,
+      "name": "L' Ile au trésor",
+      "score": "6.2",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "21.10.2023",
+          "time": "11:00",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "16.12.2023",
+          "time": "20:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ile-au-tresor"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0090199"
+        }
+      ],
+      "image": "treasure.png"
+    },
+    {
+      "id": 42,
+      "name": "La Ville des pirates",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "21.10.2023",
+          "time": "18:30",
+          "weekday": "Saturday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "11.12.2023",
+          "time": "20:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ville-des-pirates"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0090199"
+        }
+      ],
+      "image": "pirates.png"
+    }
+    
+]
+  
