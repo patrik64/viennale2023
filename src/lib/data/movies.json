@@ -690,7 +690,7 @@
       "image": "chariot.png"
     },
     {
-      "id": 25,
+      "id": 24,
       "name": "Kaibutsu",
       "score": "8.1",
       "shows" : [
@@ -720,7 +720,7 @@
       "image": "monster.png"
     },
     {
-      "id": 26,
+      "id": 25,
       "name": "Roter Himmel",
       "score": "7.3",
       "shows" : [
@@ -750,7 +750,7 @@
       "image": "afire.png"
     },
     {
-      "id": 27,
+      "id": 26,
       "name": "Kuru otlar üstüne",
       "score": "8.1",
       "shows" : [
@@ -780,7 +780,7 @@
       "image": "dry.png"
     },
     {
-      "id": 28,
+      "id": 27,
       "name": "Un prince",
       "score": "5.1",
       "shows" : [
@@ -810,7 +810,7 @@
       "image": "prince.png"
     },
     {
-      "id": 29,
+      "id": 28,
       "name": "A Invenção do Outro",
       "score": "7.9",
       "shows" : [
@@ -840,7 +840,7 @@
       "image": "outro.png"
     },
     {
-      "id": 30,
+      "id": 29,
       "name": "Adentro mío estoy bailando",
       "score": "8.2",
       "shows" : [
@@ -870,7 +870,7 @@
       "image": "klezmer.png"
     },
     {
-      "id": 31,
+      "id": 30,
       "name": "LaRoy",
       "score": "8.2",
       "shows" : [
@@ -901,96 +901,36 @@
     },
     {
       "id": 31,
-      "name": "LaRoy",
-      "score": "8.2",
+      "name": "Hokage",
+      "score": "7.1",
       "shows" : [
         {
           "kino": "Stadtkino",
           "date": "21.10.2023",
-          "time": "20:30",
+          "time": "23:15",
           "weekday": "Saturday"
         },
         {
-          "kino": "Stadtkino",
-          "date": "22.10.2023",
-          "time": "18:00",
-          "weekday": "Sunday"
+          "kino": "Urania",
+          "date": "27.10.2023",
+          "time": "13:30",
+          "weekday": "Friday"
         }
       ],
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/laroy"
+          "lvalue": "https://www.viennale.at/en/film/hokage"
         },
         {
           "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt20102596"
+          "lvalue": "https://www.imdb.com/title/tt28497692"
         }
       ],
-      "image": "laroy.png"
+      "image": "hokage.png"
     },
     {
       "id": 32,
-      "name": "Hokage",
-      "score": "7.1",
-      "shows" : [
-        {
-          "kino": "Stadtkino",
-          "date": "21.10.2023",
-          "time": "23:15",
-          "weekday": "Saturday"
-        },
-        {
-          "kino": "Urania",
-          "date": "27.10.2023",
-          "time": "13:30",
-          "weekday": "Friday"
-        }
-      ],
-      "links": [
-        {
-          "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/hokage"
-        },
-        {
-          "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt28497692"
-        }
-      ],
-      "image": "hokage.png"
-    },
-    {
-      "id": 33,
-      "name": "Hokage",
-      "score": "7.1",
-      "shows" : [
-        {
-          "kino": "Stadtkino",
-          "date": "21.10.2023",
-          "time": "23:15",
-          "weekday": "Saturday"
-        },
-        {
-          "kino": "Urania",
-          "date": "27.10.2023",
-          "time": "13:30",
-          "weekday": "Friday"
-        }
-      ],
-      "links": [
-        {
-          "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/hokage"
-        },
-        {
-          "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt28497692"
-        }
-      ],
-      "image": "hokage.png"
-    },
-    {
-      "id": 34,
       "name": "Un andantino",
       "score": "",
       "shows" : [
@@ -1020,7 +960,7 @@
       "image": "andantino.png"
     },
     {
-      "id": 35,
+      "id": 33,
       "name": "Les Meutes",
       "score": "6.5",
       "shows" : [
@@ -1050,7 +990,7 @@
       "image": "hounds.png"
     },
     {
-      "id": 36,
+      "id": 34,
       "name": "Retratos fantasmas",
       "score": "8.0",
       "shows" : [
@@ -1080,7 +1020,7 @@
       "image": "ghosts.png"
     },
     {
-      "id": 37,
+      "id": 35,
       "name": "Valparaíso mi amor",
       "score": "7.5",
       "shows" : [
@@ -1110,7 +1050,7 @@
       "image": "valparaiso.png"
     },
     {
-      "id": 38,
+      "id": 36,
       "name": "Clorindo Testa",
       "score": "7.1",
       "shows" : [
@@ -1140,7 +1080,7 @@
       "image": "clorindo.png"
     },
     {
-      "id": 39,
+      "id": 37,
       "name": "El Chacal de Nahueltoro",
       "score": "7.6",
       "shows" : [
@@ -1170,7 +1110,7 @@
       "image": "jackal.png"
     },
     {
-      "id": 40,
+      "id": 38,
       "name": "Bên trong vỏ kén vàng",
       "score": "7.6",
       "shows" : [
@@ -1200,7 +1140,7 @@
       "image": "shell.png"
     },
     {
-      "id": 41,
+      "id": 39,
       "name": "L' Ile au trésor",
       "score": "6.2",
       "shows" : [
@@ -1230,7 +1170,7 @@
       "image": "treasure.png"
     },
     {
-      "id": 42,
+      "id": 40,
       "name": "La Ville des pirates",
       "score": "7.3",
       "shows" : [
@@ -1260,7 +1200,7 @@
       "image": "pirates.png"
     },
     {
-      "id": 43,
+      "id": 41,
       "name": "Anselm",
       "score": "7.0",
       "shows" : [
@@ -1290,7 +1230,7 @@
       "image": "anselm.png"
     },
     {
-      "id": 44,
+      "id": 42,
       "name": "Bai ta zhi guang",
       "score": "6.7",
       "shows" : [
@@ -1320,7 +1260,7 @@
       "image": "tower.png"
     },
     {
-      "id": 45,
+      "id": 43,
       "name": "Club Zero",
       "score": "5.9",
       "shows" : [
@@ -1348,6 +1288,276 @@
         }
       ],
       "image": "club.png"
+    },
+    {
+      "id": 44,
+      "name": "Perfect Days",
+      "score": "7.9",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "22.10.2023",
+          "time": "21:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "23.10.2023",
+          "time": "17:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/perfect-days"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27503384"
+        }
+      ],
+      "image": "perfect.png"
+    },
+    {
+      "id": 45,
+      "name": "Daaaaaali!",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "22.10.2023",
+          "time": "15:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "28.10.2023",
+          "time": "23:15",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/daaaaaali"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt23476446"
+        }
+      ],
+      "image": "dali.png"
+    },
+    {
+      "id": 46,
+      "name": "Il sol dell'avvenire",
+      "score": "6.9",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "22.10.2023",
+          "time": "21:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.10.2023",
+          "time": "18:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/sol-dellavvenire"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt16731908"
+        }
+      ],
+      "image": "bright.png"
+    },
+    {
+      "id": 47,
+      "name": "L' Amitié",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "22.10.2023",
+          "time": "11:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/amitie"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21992080"
+        }
+      ],
+      "image": "amitie.png"
+    },
+    {
+      "id": 48,
+      "name": "Unutma biçimleri",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "22.10.2023",
+          "time": "16:15",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Metro",
+          "date": "24.10.2023",
+          "time": "11:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/unutma-bicimleri"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26256598"
+        }
+      ],
+      "image": "forms.png"
+    },
+    {
+      "id": 49,
+      "name": "Morir un poco",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "22.10.2023",
+          "time": "18:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/morir-un-poco"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0174035"
+        }
+      ],
+      "image": "morir.png"
+    },
+    {
+      "id": 50,
+      "name": "Three Sad Tigers",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "22.10.2023",
+          "time": "11:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "30.10.2023",
+          "time": "18:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/tres-tristes-tigres"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0063718"
+        }
+      ],
+      "image": "tigres.png"
+    },
+    {
+      "id": 51,
+      "name": "Slike iz života udarnika",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "22.10.2023",
+          "time": "18:30",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/slike-iz-zivota-udarnika"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0124111"
+        }
+      ],
+      "image": "udarnik.png"
+    },
+    {
+      "id": 52,
+      "name": "Les Trois couronnes du matelot",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "22.10.2023",
+          "time": "21:00",
+          "weekday": "Sunday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "15.12.2023",
+          "time": "18:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/trois-couronnes-du-matelot"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0084824"
+        }
+      ],
+      "image": "sailor.png"
     }
     
 ]
