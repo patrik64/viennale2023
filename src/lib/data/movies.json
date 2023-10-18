@@ -2011,8 +2011,8 @@
     },
     {
       "id": 68,
-      "name": "El juicio",
-      "score": "",
+      "name": "El Juicio",
+      "score": "8.0",
       "shows" : [
         {
           "kino": "Metro",
@@ -2522,7 +2522,7 @@
     {
       "id": 85,
       "name": "Paria",
-      "score": "",
+      "score": "7.3",
       "shows" : [
         {
           "kino": "Filmmuseum",
@@ -2608,6 +2608,486 @@
         }
       ],
       "image": "grapewine.png"
+    },
+    {
+      "id": 88,
+      "name": "Poor Things",
+      "score": "8.4",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2023",
+          "time": "18:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "28.10.2023",
+          "time": "12:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/poor-things"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14230458"
+        }
+      ],
+      "image": "poor.png"
+    },
+    {
+      "id": 89,
+      "name": "Birth/Rebirth",
+      "score": "6.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2023",
+          "time": "23:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "30.10.2023",
+          "time": "23:15",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/birthrebirth"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt9048804"
+        }
+      ],
+      "image": "birth.png"
+    },
+    {
+      "id": 90,
+      "name": "Perdidos En La Noche",
+      "score": "6.1",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "13:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "31.10.2023",
+          "time": "11:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/perdidos-en-la-noche"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27307501"
+        }
+      ],
+      "image": "lost.png"
+    },
+    {
+      "id": 91,
+      "name": "Anqa",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "18:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Metro",
+          "date": "26.10.2023",
+          "time": "16:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/anqa"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26342367"
+        }
+      ],
+      "image": "anqa.png"
+    },
+    {
+      "id": 92,
+      "name": "Mal Viver",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "20:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "28.10.2023",
+          "time": "13:45",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/mal-viver"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14007288"
+        }
+      ],
+      "image": "mal.png"
+    },
+    {
+      "id": 93,
+      "name": "The First Slam Dunk",
+      "score": "7.6",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "25.10.2023",
+          "time": "23:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2023",
+          "time": "18:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/first-slam-dunk"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15242330"
+        }
+      ],
+      "image": "dunk.png"
+    },
+    {
+      "id": 94,
+      "name": "Sobre Todo De Noche",
+      "score": "5.8",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "25.10.2023",
+          "time": "18:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2023",
+          "time": "20:15",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/sobre-todo-de-noche"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21882016"
+        }
+      ],
+      "image": "sobre.png"
+    },
+    {
+      "id": 95,
+      "name": "Perpetrator",
+      "score": "4.6",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "25.10.2023",
+          "time": "21:15",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2023",
+          "time": "23:15",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/perpetrator"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt24082454"
+        }
+      ],
+      "image": "perpetrator.png"
+    },
+    {
+      "id": 96,
+      "name": "La Blessure",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "25.10.2023",
+          "time": "11:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/blessure"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0412518"
+        }
+      ],
+      "image": "wound.png"
+    },
+    {
+      "id": 97,
+      "name": "Die Nachtmeerfahrt",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "25.10.2023",
+          "time": "16:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nachtmeerfahrt"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0089660"
+        }
+      ],
+      "image": "nacht.png"
+    },
+    {
+      "id": 98,
+      "name": "Camping Du Lac",
+      "score": "5.1",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "25.10.2023",
+          "time": "18:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "26.10.2023",
+          "time": "16:00",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/camping-du-lac"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27627203"
+        }
+      ],
+      "image": "lac.png"
+    },
+    {
+      "id": 99,
+      "name": "Notre Corps",
+      "score": "8.3",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "25.10.2023",
+          "time": "21:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2023",
+          "time": "11:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/notre-corps"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27627203"
+        }
+      ],
+      "image": "body.png"
+    },
+    {
+      "id": 100,
+      "name": "Het Dak Van De Walvis",
+      "score": "7.0",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "25.10.2023",
+          "time": "11:00",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "09.12.2023",
+          "time": "20:30",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/het-dak-van-de-walvis"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0083783"
+        }
+      ],
+      "image": "whale.png"
+    },
+    {
+      "id": 101,
+      "name": "Imagen Latente",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "25.10.2023",
+          "time": "13:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/imagen-latente"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0095359"
+        }
+      ],
+      "image": "imagen.png"
+    },
+    {
+      "id": 102,
+      "name": "La Question Humaine",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "25.10.2023",
+          "time": "18:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/question-humaine"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0765141"
+        }
+      ],
+      "image": "heartbeat.png"
+    },
+    {
+      "id": 103,
+      "name": "Généalogies d'un Crime",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "25.10.2023",
+          "time": "18:30",
+          "weekday": "Wednesday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "29.12.2023",
+          "time": "18:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/genealogies-dun-crime"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0119242"
+        }
+      ],
+      "image": "crime.png"
     }
     
 ]
