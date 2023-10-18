@@ -2,6 +2,9 @@
     {
       "id": 1,
       "name": "Magyarázat mindenre",
+      "engname": "Explanation for Everything",
+      "year": "2023",
+      "length": "2h 31m",
       "score": "7.9",
       "shows" : [
         {
@@ -32,6 +35,9 @@
     {
       "id": 2,
       "name": "She came to me",
+      "engname": "She came to me",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "6.3",
       "shows" : [
         {
@@ -62,6 +68,9 @@
     {
       "id": 3,
       "name": "Kimitachi wa do ikiru ka",
+      "engname": "The Boy and the Heron",
+      "year": "2023",
+      "length": "2h 4m",
       "score": "7.7",
       "shows" : [
         {
@@ -93,6 +102,9 @@
       "id": 4,
       "name": "Stillstand",
       "score": "",
+      "engname": "Stillstand",
+      "year": "2023",
+      "length": " 2h 17m",
       "shows" : [
         {
           "kino": "Gartenbaukino",
@@ -123,6 +135,9 @@
       "id": 5,
       "name": "Eureka",
       "score": "6.3",
+      "engname": "Eureka",
+      "year": "2023",
+      "length": "2h 20m",
       "shows" : [
         {
           "kino": "Gartenbaukino",
@@ -152,6 +167,9 @@
     {
       "id": 6,
       "name": "Los Delincuentes",
+      "engname": "The Delinquents",
+      "year": "2023",
+      "length": "3h 9m",
       "score": "6.7",
       "shows" : [
         {
@@ -182,6 +200,9 @@
     {
       "id": 7,
       "name": "Robot Dreams",
+      "engname": "Robot Dreams",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "7.7",
       "shows" : [
         {
@@ -211,7 +232,10 @@
     },
     {
       "id": 8,
-      "name": "Music",
+      "name": "Musik",
+      "engname": "Music",
+      "year": "2023",
+      "length": "1h 48m",
       "score": "5.7",
       "shows" : [
         {
@@ -242,6 +266,9 @@
     {
       "id": 9,
       "name": "BlackBerry",
+      "engname": "BlackBerry",
+      "year": "2023",
+      "length": "2h",
       "score": "7.4",
       "shows" : [
         {
@@ -272,6 +299,9 @@
     {
       "id": 10,
       "name": "Le Procès Goldman",
+      "engname": "The Goldman Case",
+      "year": "2023",
+      "length": "1h 55m",
       "score": "7.3",
       "shows" : [
         {
@@ -302,6 +332,9 @@
     {
       "id": 11,
       "name": "Crowrã",
+      "engname": "The Buriti Flower",
+      "year": "2023",
+      "length": "2h 3m",
       "score": "5.8",
       "shows" : [
         {
@@ -332,6 +365,9 @@
     {
       "id": 12,
       "name": "El Eco",
+      "engname": "The Echo",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "7.3",
       "shows" : [
         {
@@ -362,6 +398,9 @@
     {
       "id": 13,
       "name": "Ricardo Et La Peinture",
+      "engname": "Ricardo and Painting",
+      "year": "2023",
+      "length": "1h 46m",
       "score": "",
       "shows" : [
         {
@@ -392,7 +431,10 @@
     {
       "id": 14,
       "name": "Augure",
-      "score": "6.4",
+      "engname": "Omen",
+      "year": "2023",
+      "length": "1h 30m",
+      "score": "6.5",
       "shows" : [
         {
           "kino": "Urania",
@@ -422,6 +464,9 @@
     {
       "id": 15,
       "name": "Tótem",
+      "engname": "Totem",
+      "year": "2023",
+      "length": "1h 35m",
       "score": "6.9",
       "shows" : [
         {
@@ -452,6 +497,9 @@
     {
       "id": 16,
       "name": "Chile, La Memoria Obstinada",
+      "engname": "Chile, The Obstinate Memory",
+      "year": "1997",
+      "length": "59m",
       "score": "7.8",
       "shows" : [
         {
@@ -482,6 +530,9 @@
     {
       "id": 17,
       "name": "Mademoiselle Kenopsia",
+      "engname": "Miss Kenopsia",
+      "year": "2023",
+      "length": "1h 20m",
       "score": "4.7",
       "shows" : [
         {
@@ -512,6 +563,9 @@
     {
       "id": 18,
       "name": "Return To Reason",
+      "engname": "Return To Reason",
+      "year": "2023",
+      "length": "1h 16m",
       "score": "",
       "shows" : [
         {
@@ -542,6 +596,9 @@
     {
       "id": 19,
       "name": "Zinzindurrunkarratz",
+      "engname": "Zinzindurrunkarratz",
+      "year": "2023",
+      "length": "1h 29m",
       "score": "",
       "shows" : [
         {
@@ -572,6 +629,9 @@
     {
       "id": 20,
       "name": "Qingchun (chun)",
+      "engname": "Youth (Spring)",
+      "year": "2023",
+      "length": "3h 32m",
       "score": "6.8",
       "shows" : [
         {
@@ -602,6 +662,9 @@
     {
       "id": 21,
       "name": "El Realismo Socialista",
+      "engname": "Socialist Realism",
+      "year": "2023",
+      "length": "1h 18m",
       "score": "7.7",
       "shows" : [
         {
@@ -632,6 +695,9 @@
     {
       "id": 22,
       "name": "Dearest Fiona",
+      "engname": "Dearest Fiona",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "7.4",
       "shows" : [
         {
@@ -662,6 +728,9 @@
     {
       "id": 23,
       "name": "Le Grand Chariot",
+      "engname": "The Big Cart",
+      "year": "2023",
+      "length": "1h 35m",
       "score": "6.1",
       "shows" : [
         {
@@ -692,6 +761,9 @@
     {
       "id": 24,
       "name": "Kaibutsu",
+      "engname": "Monster",
+      "year": "2023",
+      "length": "2h 6m",
       "score": "8.1",
       "shows" : [
         {
@@ -722,6 +794,9 @@
     {
       "id": 25,
       "name": "Roter Himmel",
+      "engname": "Afire",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "7.3",
       "shows" : [
         {
@@ -751,7 +826,10 @@
     },
     {
       "id": 26,
-      "name": "Kuru Otlar üstüne",
+      "name": "Kuru Otlar Üstüne",
+      "engname": "About Dry Grasses",
+      "year": "2023",
+      "length": "3h 17m",
       "score": "8.1",
       "shows" : [
         {
@@ -782,6 +860,9 @@
     {
       "id": 27,
       "name": "Un Prince",
+      "engname": "A Prince",
+      "year": "2023",
+      "length": "1h 22m",
       "score": "5.1",
       "shows" : [
         {
@@ -812,6 +893,9 @@
     {
       "id": 28,
       "name": "A Invenção Do Outro",
+      "engname": "The Invention of the Other",
+      "year": "2022",
+      "length": "2h 24m",
       "score": "7.9",
       "shows" : [
         {
@@ -842,6 +926,9 @@
     {
       "id": 29,
       "name": "Adentro Mío Estoy Bailando",
+      "engname": "The Klemzer Project",
+      "year": "2023",
+      "length": "1h 50m",
       "score": "8.2",
       "shows" : [
         {
@@ -872,6 +959,9 @@
     {
       "id": 30,
       "name": "LaRoy",
+      "engname": "LaRoy",
+      "year": "2023",
+      "length": "1h 50m",
       "score": "8.2",
       "shows" : [
         {
@@ -902,6 +992,9 @@
     {
       "id": 31,
       "name": "Hokage",
+      "engname": "Shadow of Fire",
+      "year": "2023",
+      "length": "1h 35m",
       "score": "7.1",
       "shows" : [
         {
@@ -932,6 +1025,9 @@
     {
       "id": 32,
       "name": "Un Andantino",
+      "engname": "A Wonderer",
+      "year": "2023",
+      "length": "1h 5m",
       "score": "",
       "shows" : [
         {
@@ -962,7 +1058,10 @@
     {
       "id": 33,
       "name": "Les Meutes",
-      "score": "6.5",
+      "engname": "Hounds",
+      "year": "2023",
+      "length": "1h 34m",
+      "score": "6.6",
       "shows" : [
         {
           "kino": "Urania",
@@ -992,6 +1091,9 @@
     {
       "id": 34,
       "name": "Retratos Fantasmas",
+      "engname": "Pictures of Ghosts",
+      "year": "2023",
+      "length": "1h 33m",
       "score": "8.0",
       "shows" : [
         {
@@ -1022,6 +1124,9 @@
     {
       "id": 35,
       "name": "Valparaíso Mi Amor",
+      "engname": "Valparaiso, My Love",
+      "year": "1969",
+      "length": "1h 30m",
       "score": "7.5",
       "shows" : [
         {
@@ -1052,6 +1157,9 @@
     {
       "id": 36,
       "name": "Clorindo Testa",
+      "engname": "Clorindo Testa",
+      "year": "2022",
+      "length": "1h 40m",
       "score": "7.1",
       "shows" : [
         {
@@ -1082,6 +1190,9 @@
     {
       "id": 37,
       "name": "El Chacal De Nahueltoro",
+      "engname": "Jackal of Nahueltoro",
+      "year": "1969",
+      "length": "1h 35m",
       "score": "7.6",
       "shows" : [
         {
@@ -1112,6 +1223,9 @@
     {
       "id": 38,
       "name": "Bên Trong Vỏ Kén Vàng",
+      "engname": "Inside The Yellow Cocoon Shell",
+      "year": "2023",
+      "length": "3h 2m",
       "score": "7.6",
       "shows" : [
         {
@@ -1142,6 +1256,9 @@
     {
       "id": 39,
       "name": "L'Ile Au Trésor",
+      "engname": "Treasure Island",
+      "year": "1986",
+      "length": "1h 55m",
       "score": "6.2",
       "shows" : [
         {
@@ -1172,6 +1289,9 @@
     {
       "id": 40,
       "name": "La Ville Des Pirates",
+      "engname": "City of Pirates",
+      "year": "1983",
+      "length": "1h 51m",
       "score": "7.3",
       "shows" : [
         {
@@ -1194,7 +1314,7 @@
         },
         {
           "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt0090199"
+          "lvalue": "https://www.imdb.com/title/tt0086545"
         }
       ],
       "image": "pirates.png"
@@ -1202,6 +1322,9 @@
     {
       "id": 41,
       "name": "Anselm",
+      "engname": "Anselm",
+      "year": "2023",
+      "length": "1h 33m",
       "score": "7.0",
       "shows" : [
         {
@@ -1232,6 +1355,9 @@
     {
       "id": 42,
       "name": "Bai Ta Zhi Guang",
+      "engname": "The Shadowless Tower",
+      "year": "2023",
+      "length": "2h 24m",
       "score": "6.7",
       "shows" : [
         {
@@ -1262,6 +1388,9 @@
     {
       "id": 43,
       "name": "Club Zero",
+      "engname": "Club Zero",
+      "year": "2023",
+      "length": "1h 50m",
       "score": "5.9",
       "shows" : [
         {
@@ -1292,6 +1421,9 @@
     {
       "id": 44,
       "name": "Perfect Days",
+      "engname": "Perfect Days",
+      "year": "2023",
+      "length": "2h 3m",
       "score": "7.9",
       "shows" : [
         {
@@ -1322,6 +1454,9 @@
     {
       "id": 45,
       "name": "Daaaaaali!",
+      "engname": "Daaaaaali!",
+      "year": "2023",
+      "length": "1h 17m",
       "score": "7.2",
       "shows" : [
         {
@@ -1352,6 +1487,9 @@
     {
       "id": 46,
       "name": "Il Sol Dell'Avvenire",
+      "engname": "A Brighter Tomorrow",
+      "year": "2023",
+      "length": "1h 35m",
       "score": "6.9",
       "shows" : [
         {
@@ -1382,6 +1520,9 @@
     {
       "id": 47,
       "name": "L'Amitié",
+      "engname": "Friendship",
+      "year": "2022",
+      "length": "2h 4h",
       "score": "6.5",
       "shows" : [
         {
@@ -1412,6 +1553,9 @@
     {
       "id": 48,
       "name": "Unutma Biçimleri",
+      "engname": "Forms of Forgetting",
+      "year": "2023",
+      "length": "1h 10m",
       "score": "7.6",
       "shows" : [
         {
@@ -1442,6 +1586,9 @@
     {
       "id": 49,
       "name": "Morir Un Poco",
+      "engname": "To Die A Little",
+      "year": "1966",
+      "length": "1h 9m",
       "score": "7.5",
       "shows" : [
         {
@@ -1471,7 +1618,10 @@
     },
     {
       "id": 50,
-      "name": "Three Sad Tigers",
+      "name": "Tres Tristes Tigres",
+      "engname": "Three Sad Tigers",
+      "year": "1968",
+      "length": "1h 40m",
       "score": "7.0",
       "shows" : [
         {
@@ -1502,6 +1652,9 @@
     {
       "id": 51,
       "name": "Slike Iz Života Udarnika",
+      "engname": "Life of a Shock Force Worker",
+      "year": "1972",
+      "length": "1h 40m",
       "score": "7.3",
       "shows" : [
         {
@@ -1532,6 +1685,9 @@
     {
       "id": 52,
       "name": "Les Trois Couronnes Du Matelot",
+      "engname": "Three Crowns Of The Sailor",
+      "year": "1983",
+      "length": "1h 57m",
       "score": "7.1",
       "shows" : [
         {
@@ -1562,6 +1718,9 @@
     {
       "id": 53,
       "name": "Priscilla",
+      "engname": "Priscilla",
+      "year": "2023",
+      "length": "1h 53m",
       "score": "6.7",
       "shows" : [
         {
@@ -1592,6 +1751,9 @@
     {
       "id": 54,
       "name": "Coup De Chance",
+      "engname": "Stroke Of Luck",
+      "year": "2023",
+      "length": "1h 33m",
       "score": "6.7",
       "shows" : [
         {
@@ -1622,6 +1784,9 @@
     {
       "id": 55,
       "name": "Europa",
+      "engname": "Europa",
+      "year": "2023",
+      "length": "1h 37m",
       "score": "7.0",
       "shows" : [
         {
@@ -1652,6 +1817,9 @@
     {
       "id": 56,
       "name": "Anatomie D'une Chute",
+      "engname": "Anatomy of a Fall",
+      "year": "2023",
+      "length": "2h 32m",
       "score": "7.9",
       "shows" : [
         {
@@ -1682,6 +1850,9 @@
     {
       "id": 57,
       "name": "Wu Yue Xue",
+      "engname": "Snow in Midsummer",
+      "year": "2023",
+      "length": "1h 56m",
       "score": "",
       "shows" : [
         {
@@ -1712,6 +1883,9 @@
     {
       "id": 58,
       "name": "Nouveau Monde! (Le Monde à Nouveau)",
+      "engname": "New World! (The World Anew)",
+      "year": "2023",
+      "length": "1h 42m",
       "score": "",
       "shows" : [
         {
@@ -1742,6 +1916,9 @@
     {
       "id": 59,
       "name": "Mars Express",
+      "engname": "2023",
+      "year": "1h 25m",
+      "length": "",
       "score": "7.4",
       "shows" : [
         {
@@ -1772,6 +1949,9 @@
     {
       "id": 60,
       "name": "Xue Yun",
+      "engname": "Absence",
+      "year": "2023",
+      "length": "1h 40m",
       "score": "6.2",
       "shows" : [
         {
@@ -1802,6 +1982,9 @@
     {
       "id": 61,
       "name": "Xue Bao",
+      "engname": "Snow Leopard",
+      "year": "2023",
+      "length": "1h 49m",
       "score": "6.0",
       "shows" : [
         {
@@ -1832,6 +2015,9 @@
     {
       "id": 62,
       "name": "Aku Wa Sonzai Shinai",
+      "engname": "Evil Does Not Exist",
+      "year": "2023",
+      "length": "1h 46m",
       "score": "7.3",
       "shows" : [
         {
@@ -1862,6 +2048,9 @@
     {
       "id": 63,
       "name": "Menus Plaisirs - Les Troisgros",
+      "engname": "Pleasure menus - Les Troisgros",
+      "year": "2023",
+      "length": "4h",
       "score": "8.1",
       "shows" : [
         {
@@ -1892,6 +2081,9 @@
     {
       "id": 64,
       "name": "La Sagrada Familia",
+      "engname": "The Sacred Family",
+      "year": "2005",
+      "length": "1h 39m",
       "score": "6.2",
       "shows" : [
         {
@@ -1922,6 +2114,9 @@
     {
       "id": 65,
       "name": "In Our Day",
+      "engname": "In Our Day",
+      "year": "2023",
+      "length": "1h 23m",
       "score": "6.4",
       "shows" : [
         {
@@ -1952,6 +2147,9 @@
     {
       "id": 66,
       "name": "El Zapato Chino",
+      "engname": "The Chinese Shoe",
+      "year": "1979",
+      "length": "1h 12m",
       "score": "6.5",
       "shows" : [
         {
@@ -1982,6 +2180,9 @@
     {
       "id": 67,
       "name": "Huellas",
+      "engname": "Traces",
+      "year": "2023",
+      "length": "1h 3m",
       "score": "",
       "shows" : [
         {
@@ -2012,6 +2213,9 @@
     {
       "id": 68,
       "name": "El Juicio",
+      "engname": "The Trial",
+      "year": "2023",
+      "length": "2h 57m",
       "score": "8.0",
       "shows" : [
         {
@@ -2042,6 +2246,9 @@
     {
       "id": 69,
       "name": "Dialogue D'exilés",
+      "engname": "Dialogues Of Exiles",
+      "year": "1975",
+      "length": "1h 40h",
       "score": "7.1",
       "shows" : [
         {
@@ -2072,6 +2279,9 @@
     {
       "id": 70,
       "name": "La Nuit Bengali",
+      "engname": "The Bengali Night",
+      "year": "1988",
+      "length": "2h 33m",
       "score": "5.9",
       "shows" : [
         {
@@ -2090,7 +2300,7 @@
       "links": [
         {
           "lkey": "viennale",
-          "lvalue": "https://www.viennale.at/en/film/dialogue-dexiles"
+          "lvalue": "https://www.viennale.at/en/film/nuit-bengali"
         },
         {
           "lkey": "imdb",
@@ -2102,6 +2312,9 @@
     {
       "id": 71,
       "name": "Klimt",
+      "engname": "Klimt",
+      "year": "2006",
+      "length": "2h 11m",
       "score": "5.1",
       "shows" : [
         {
@@ -2132,6 +2345,9 @@
     {
       "id": 72,
       "name": "Allensworth",
+      "engname": "Allensworth",
+      "year": "2022",
+      "length": "1h 5m",
       "score": "6.7",
       "shows" : [
         {
@@ -2162,6 +2378,9 @@
     {
       "id": 73,
       "name": "Nuit Obscure - Au Revoir Ici, N'importe Où",
+      "engname": "Obscure Night - Goodbye Here, Anywhere",
+      "year": "2023",
+      "length": "3h 3m",
       "score": "6.7",
       "shows" : [
         {
@@ -2192,6 +2411,9 @@
     {
       "id": 74,
       "name": "Rapito",
+      "engname": "Kidnapped",
+      "year": "2023",
+      "length": "2h 14m",
       "score": "7.1",
       "shows" : [
         {
@@ -2222,6 +2444,9 @@
     {
       "id": 75,
       "name": "Ferrari",
+      "engname": "Ferrari",
+      "year": "2023",
+      "length": "2h 10m",
       "score": "6.8",
       "shows" : [
         {
@@ -2252,6 +2477,9 @@
     {
       "id": 76,
       "name": "La Bête",
+      "engname": "The Beast",
+      "year": "2023",
+      "length": "2h 26m",
       "score": "6.8",
       "shows" : [
         {
@@ -2282,7 +2510,10 @@
     {
       "id": 77,
       "name": "The Feeling That The Time For Doing Something Has Passed",
-      "score": "6.8",
+      "engname": "The Feeling That The Time For Doing Something Has Passed",
+      "year": "2023",
+      "length": "1h 27m",
+      "score": "6.5",
       "shows" : [
         {
           "kino": "Stadtkino",
@@ -2312,6 +2543,9 @@
     {
       "id": 78,
       "name": "La Passion De Dodin Bouffant",
+      "engname": "The Taste of Things",
+      "year": "2023",
+      "length": "2h 25m",
       "score": "7.5",
       "shows" : [
         {
@@ -2342,6 +2576,9 @@
     {
       "id": 79,
       "name": "Joan Baez - I Am a Noise",
+      "engname": "Joan Baez - I Am a Noise",
+      "year": "2023",
+      "length": "1h 53m",
       "score": "6.8",
       "shows" : [
         {
@@ -2372,6 +2609,9 @@
     {
       "id": 80,
       "name": "L'eté Dernier",
+      "engname": "Last Summer",
+      "year": "2023",
+      "length": "1h 44m",
       "score": "6.8",
       "shows" : [
         {
@@ -2402,6 +2642,9 @@
     {
       "id": 81,
       "name": "Sur L'Adamant",
+      "engname": "On The Adamant",
+      "year": "2023",
+      "length": "1h 49m",
       "score": "6.8",
       "shows" : [
         {
@@ -2432,6 +2675,9 @@
     {
       "id": 82,
       "name": "The Woman On The Beach",
+      "engname": "The Woman On The Beach",
+      "year": "1947",
+      "length": "1h 11m",
       "score": "6.4",
       "shows" : [
         {
@@ -2462,6 +2708,9 @@
     {
       "id": 83,
       "name": "Nous Disons Révolution",
+      "engname": "Let's Say Revolution",
+      "year": "2021",
+      "length": "2h 8m",
       "score": "",
       "shows" : [
         {
@@ -2492,6 +2741,9 @@
     {
       "id": 84,
       "name": "Angst",
+      "engname": "Fear",
+      "year": "1983",
+      "length": "1h 27m",
       "score": "7.2",
       "shows" : [
         {
@@ -2522,6 +2774,9 @@
     {
       "id": 85,
       "name": "Paria",
+      "engname": "Pariah",
+      "year": "2000",
+      "length": "2h 5m",
       "score": "7.3",
       "shows" : [
         {
@@ -2552,6 +2807,9 @@
     {
       "id": 86,
       "name": "La Telenovela Errante",
+      "engname": "The Wandering Soap Opera",
+      "year": "2017",
+      "length": "1h 20m",
       "score": "6.5",
       "shows" : [
         {
@@ -2582,6 +2840,9 @@
     {
       "id": 87,
       "name": "I Heard It Through The Grapevine",
+      "engname": "I Heard It Through The Grapevine",
+      "year": "1982",
+      "length": "1h 35m",
       "score": "6.5",
       "shows" : [
         {
@@ -2612,6 +2873,9 @@
     {
       "id": 88,
       "name": "Poor Things",
+      "engname": "Poor Things",
+      "year": "2023",
+      "length": "2h 21m",
       "score": "8.4",
       "shows" : [
         {
@@ -2642,6 +2906,9 @@
     {
       "id": 89,
       "name": "Birth/Rebirth",
+      "engname": "Birth/Rebirth",
+      "year": "2023",
+      "length": "1h 38m",
       "score": "6.1",
       "shows" : [
         {
@@ -2672,6 +2939,9 @@
     {
       "id": 90,
       "name": "Perdidos En La Noche",
+      "engname": "Lost in the Night",
+      "year": "2023",
+      "length": "2h 2m",
       "score": "6.1",
       "shows" : [
         {
@@ -2702,6 +2972,9 @@
     {
       "id": 91,
       "name": "Anqa",
+      "engname": "Anqa",
+      "year": "2023",
+      "length": "1h 31m",
       "score": "7.6",
       "shows" : [
         {
@@ -2732,6 +3005,9 @@
     {
       "id": 92,
       "name": "Mal Viver",
+      "engname": "Bad Living",
+      "year": "2023",
+      "length": "2h 7m",
       "score": "7.6",
       "shows" : [
         {
@@ -2762,6 +3038,9 @@
     {
       "id": 93,
       "name": "The First Slam Dunk",
+      "engname": "The First Slam Dunk",
+      "year": "2022",
+      "length": "2h 4m",
       "score": "7.6",
       "shows" : [
         {
@@ -2792,6 +3071,9 @@
     {
       "id": 94,
       "name": "Sobre Todo De Noche",
+      "engname": "Foremost by Night",
+      "year": "2023",
+      "length": "1h 35m",
       "score": "5.8",
       "shows" : [
         {
@@ -2822,6 +3104,9 @@
     {
       "id": 95,
       "name": "Perpetrator",
+      "engname": "Perpetrator",
+      "year": "2023",
+      "length": "1h 41m",
       "score": "4.6",
       "shows" : [
         {
@@ -2852,6 +3137,9 @@
     {
       "id": 96,
       "name": "La Blessure",
+      "engname": "The Wound",
+      "year": "2004",
+      "length": "2h 42m",
       "score": "7.1",
       "shows" : [
         {
@@ -2882,6 +3170,9 @@
     {
       "id": 97,
       "name": "Die Nachtmeerfahrt",
+      "engname": "Sea Journey Into The Night",
+      "year": "1986",
+      "length": "1h 10m",
       "score": "",
       "shows" : [
         {
@@ -2912,6 +3203,9 @@
     {
       "id": 98,
       "name": "Camping Du Lac",
+      "engname": "Lakeside Camping",
+      "year": "2023",
+      "length": "1h 9m",
       "score": "5.1",
       "shows" : [
         {
@@ -2942,6 +3236,9 @@
     {
       "id": 99,
       "name": "Notre Corps",
+      "engname": "Our Body",
+      "year": "2023",
+      "length": "2h 48m",
       "score": "8.3",
       "shows" : [
         {
@@ -2964,7 +3261,7 @@
         },
         {
           "lkey": "imdb",
-          "lvalue": "https://www.imdb.com/title/tt27627203"
+          "lvalue": "https://www.imdb.com/title/tt26347358"
         }
       ],
       "image": "body.png"
@@ -2972,6 +3269,9 @@
     {
       "id": 100,
       "name": "Het Dak Van De Walvis",
+      "engname": "On Top Of The Whale",
+      "year": "1982",
+      "length": "1h 30m",
       "score": "7.0",
       "shows" : [
         {
@@ -3002,6 +3302,9 @@
     {
       "id": 101,
       "name": "Imagen Latente",
+      "engname": "Latent Image",
+      "year": "1987",
+      "length": "1h 32m",
       "score": "6.5",
       "shows" : [
         {
@@ -3032,7 +3335,10 @@
     {
       "id": 102,
       "name": "La Question Humaine",
-      "score": "6.5",
+      "engname": "Heartbeat Detector",
+      "year": "2007",
+      "length": "2h 23m",
+      "score": "6.1",
       "shows" : [
         {
           "kino": "Filmmuseum",
@@ -3062,6 +3368,9 @@
     {
       "id": 103,
       "name": "Généalogies D'un Crime",
+      "engname": "Genealogies Of A Crime",
+      "year": "1997",
+      "length": "1h 43m",
       "score": "6.4",
       "shows" : [
         {
@@ -3092,6 +3401,9 @@
     {
       "id": 104,
       "name": "The Holdovers",
+      "engname": "The Holdovers",
+      "year": "2023",
+      "length": "2h 13m",
       "score": "8.2",
       "shows" : [
         {
@@ -3122,6 +3434,9 @@
     {
       "id": 105,
       "name": "Le Temps Retrouvé",
+      "engname": "Marcel Proust's Time Regained",
+      "year": "1999",
+      "length": "2h 49m",
       "score": "6.7",
       "shows" : [
         {
@@ -3152,6 +3467,9 @@
     {
       "id": 106,
       "name": "La Práctica",
+      "engname": "The Practice",
+      "year": "2023",
+      "length": "1h 29m",
       "score": "8.2",
       "shows" : [
         {
@@ -3182,6 +3500,9 @@
     {
       "id": 107,
       "name": "Vista Mare",
+      "engname": "Sea View",
+      "year": "2023",
+      "length": "1h 20m",
       "score": "6.8",
       "shows" : [
         {
@@ -3212,6 +3533,9 @@
     {
       "id": 108,
       "name": "He Bian De Cuo Wu",
+      "engname": "Only The River Flows",
+      "year": "2023",
+      "length": "1h 41m",
       "score": "7.3",
       "shows" : [
         {
@@ -3242,6 +3566,9 @@
     {
       "id": 109,
       "name": "Low Life",
+      "engname": "Low Life",
+      "year": "2011",
+      "length": "2h",
       "score": "5.1",
       "shows" : [
         {
@@ -3272,6 +3599,9 @@
     {
       "id": 110,
       "name": "Mul-An-E-Seo",
+      "engname": "In Water",
+      "year": "2023",
+      "length": "1h 1m",
       "score": "6.3",
       "shows" : [
         {
@@ -3302,6 +3632,9 @@
     {
       "id": 111,
       "name": "Viver Mal",
+      "engname": "Living Bad",
+      "year": "2023",
+      "length": "2h 4m",
       "score": "6.3",
       "shows" : [
         {
@@ -3332,6 +3665,9 @@
     {
       "id": 112,
       "name": "Essential Truths Of The Lake",
+      "engname": "Essential Truths Of The Lake",
+      "year": "2023",
+      "length": "3h 35m",
       "score": "5.8",
       "shows" : [
         {
@@ -3362,6 +3698,9 @@
     {
       "id": 113,
       "name": "Bushman",
+      "engname": "Bushman",
+      "year": "1971",
+      "length": "1h 13m",
       "score": "8.2",
       "shows" : [
         {
@@ -3392,7 +3731,10 @@
     {
       "id": 114,
       "name": "Ich Oder Du",
-      "score": "",
+      "engname": "Me Or You",
+      "year": "1984",
+      "length": "1h 33m",
+      "score": "6.2",
       "shows" : [
         {
           "kino": "Metro",
@@ -3422,7 +3764,10 @@
     {
       "id": 115,
       "name": "Palomita Blanca",
-      "score": "",
+      "engname": "Little White Dove",
+      "year": "1992",
+      "length": "2h 5m",
+      "score": "6.9",
       "shows" : [
         {
           "kino": "Filmmuseum",
@@ -3452,6 +3797,9 @@
     {
       "id": 116,
       "name": "L'Héroïque Lande - La Frontière Brûle",
+      "engname": "The Wild Frontier",
+      "year": "2017",
+      "length": "3h 39m",
       "score": "6.6",
       "shows" : [
         {
@@ -3482,6 +3830,9 @@
     {
       "id": 117,
       "name": "All of Us Strangers",
+      "engname": "All of Us Strangers",
+      "year": "2023",
+      "length": "1h 45m",
       "score": "6.6",
       "shows" : [
         {
@@ -3512,6 +3863,9 @@
     {
       "id": 118,
       "name": "Rickerl",
+      "engname": "Rickerl",
+      "year": "2023",
+      "length": "1h 44m",
       "score": "",
       "shows" : [
         {
@@ -3542,7 +3896,10 @@
     {
       "id": 119,
       "name": "El Viento Sabe Que Vuelvo A Casa",
-      "score": "",
+      "engname": "The Wind Know I'm Coming Back Home",
+      "year": "2016",
+      "length": "1h 44m",
+      "score": "7.0",
       "shows" : [
         {
           "kino": "Stadtkino",
@@ -3572,6 +3929,9 @@
     {
       "id": 120,
       "name": "Die Ängstliche Verkehrsteilnehmerin",
+      "engname": "Losing Faith",
+      "year": "2023",
+      "length": "1h 40m",
       "score": "",
       "shows" : [
         {
@@ -3602,6 +3962,9 @@
     {
       "id": 121,
       "name": "Cerrar Los Ojos",
+      "engname": "Close Your Eyes",
+      "year": "2023",
+      "length": "2h 49m",
       "score": "7.5",
       "shows" : [
         {
@@ -3632,6 +3995,9 @@
     {
       "id": 122,
       "name": "Die Erben",
+      "engname": "The Inheritors",
+      "year": "1983",
+      "length": "1h 30m",
       "score": "6.6",
       "shows" : [
         {
@@ -3662,6 +4028,9 @@
     {
       "id": 123,
       "name": "Arturo A Los 30",
+      "engname": "About Thirty",
+      "year": "2023",
+      "length": "1h 32m",
       "score": "7.3",
       "shows" : [
         {
@@ -3692,6 +4061,9 @@
     {
       "id": 124,
       "name": "Zielona Granica",
+      "engname": "Green Border",
+      "year": "",
+      "length": "",
       "score": "7.3",
       "shows" : [
         {
@@ -3721,7 +4093,10 @@
     },
     {
       "id": 125,
-      "name": "Fado Majeur Et Mineur",
+      "name": "Fado, Majeur Et Mineur",
+      "engname": "Fado, Major and Minor",
+      "year": "1994",
+      "length": "1h 50m",
       "score": "6.3",
       "shows" : [
         {
@@ -3752,6 +4127,9 @@
     {
       "id": 126,
       "name": "Puan",
+      "engname": "Puan",
+      "year": "2023",
+      "length": "1h 47m",
       "score": "7.0",
       "shows" : [
         {
@@ -3782,6 +4160,9 @@
     {
       "id": 127,
       "name": "Comédie De L'Innocence",
+      "engname": "Comedy of Innocence",
+      "year": "2000",
+      "length": "1h 40m",
       "score": "6.5",
       "shows" : [
         {
@@ -3812,6 +4193,9 @@
     {
       "id": 128,
       "name": "Die Theorie Von Allem",
+      "engname": "The Universal Theory",
+      "year": "2023",
+      "length": "1h 58m",
       "score": "6.4",
       "shows" : [
         {
@@ -3842,6 +4226,9 @@
     {
       "id": 129,
       "name": "Nu Astepta Prea Mult De La Sfârșitul Lumii",
+      "engname": "Do Not Expect Too Much of the End of the World",
+      "year": "2023",
+      "length": "2h 43m",
       "score": "7.2",
       "shows" : [
         {
@@ -3872,7 +4259,10 @@
     {
       "id": 130,
       "name": "Shashvi Shashvi Maq'vali",
-      "score": "7.2",
+      "engname": "Blackbird Blackbird Blackberry",
+      "year": "2023",
+      "length": "1h 50m",
+      "score": "7.0",
       "shows" : [
         {
           "kino": "Gartenbaukino",
@@ -3902,6 +4292,9 @@
     {
       "id": 131,
       "name": "El auge del humano 3",
+      "engname": "The Human Surge 3",
+      "year": "2023",
+      "length": "2h 1m",
       "score": "5.8",
       "shows" : [
         {
@@ -3932,6 +4325,9 @@
     {
       "id": 132,
       "name": "Here",
+      "engname": "Here",
+      "year": "2023",
+      "length": "1h 22m",
       "score": "6.9",
       "shows" : [
         {
@@ -3962,6 +4358,9 @@
     {
       "id": 133,
       "name": "Kanata No Uta",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "5.8",
       "shows" : [
         {
@@ -3992,6 +4391,9 @@
     {
       "id": 134,
       "name": "Totentanz",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "6.3",
       "shows" : [
         {
@@ -4022,6 +4424,9 @@
     {
       "id": 135,
       "name": "Les Âmes Fortes",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "6.3",
       "shows" : [
         {
@@ -4052,6 +4457,9 @@
     {
       "id": 136,
       "name": "Trois Vies Et Une Seule Mort",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "",
       "shows" : [
         {
@@ -4082,6 +4490,9 @@
     {
       "id": 137,
       "name": "La Chimera",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "7.5",
       "shows" : [
         {
@@ -4112,6 +4523,9 @@
     {
       "id": 138,
       "name": "L'Amour Fou",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "7.4",
       "shows" : [
         {
@@ -4142,6 +4556,9 @@
     {
       "id": 139,
       "name": "Animal",
+      "engname": "Animal",
+      "year": "",
+      "length": "",
       "score": "7.2",
       "shows" : [
         {
@@ -4172,6 +4589,9 @@
     {
       "id": 140,
       "name": "Simple Comme Sylvain",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "7.2",
       "shows" : [
         {
@@ -4202,6 +4622,9 @@
     {
       "id": 141,
       "name": "Celluloid Underground",
+      "engname": "Celluloid Underground",
+      "year": "",
+      "length": "",
       "score": "",
       "shows" : [
         {
@@ -4232,6 +4655,9 @@
     {
       "id": 142,
       "name": "Savvusanna Sõsarad",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "",
       "shows" : [
         {
@@ -4262,6 +4688,9 @@
     {
       "id": 143,
       "name": "La Maison Nucingen",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "6.1",
       "shows" : [
         {
@@ -4292,6 +4721,9 @@
     {
       "id": 144,
       "name": "La Recta Provincia",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "7.6",
       "shows" : [
         {
@@ -4322,6 +4754,9 @@
     {
       "id": 145,
       "name": "Amadeus",
+      "engname": "Amadeus",
+      "year": "",
+      "length": "",
       "score": "8.4",
       "shows" : [
         {
@@ -4352,6 +4787,9 @@
     {
       "id": 146,
       "name": "Cosmosapiens",
+      "engname": "Cosmosapiens",
+      "year": "",
+      "length": "",
       "score": "",
       "shows" : [
         {
@@ -4382,6 +4820,9 @@
     {
       "id": 147,
       "name": "Atemnot",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "",
       "shows" : [
         {
@@ -4412,6 +4853,9 @@
     {
       "id": 148,
       "name": "Ce Jour-Là",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "6.6",
       "shows" : [
         {
@@ -4442,6 +4886,9 @@
     {
       "id": 149,
       "name": "Yannick",
+      "engname": "Yannick",
+      "year": "",
+      "length": "",
       "score": "7.4",
       "shows" : [
         {
@@ -4472,6 +4919,9 @@
     {
       "id": 150,
       "name": "Mistérios De Lisboa",
+      "engname": "",
+      "year": "",
+      "length": "",
       "score": "7.4",
       "shows" : [
         {
@@ -4502,6 +4952,9 @@
     {
       "id": 151,
       "name": "The Territory",
+      "engname": "The Territory",
+      "year": "",
+      "length": "",
       "score": "7.4",
       "shows" : [
         {
