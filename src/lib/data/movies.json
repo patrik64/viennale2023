@@ -3088,6 +3088,186 @@
         }
       ],
       "image": "crime.png"
+    },
+    {
+      "id": 104,
+      "name": "The Holdovers",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2023",
+          "time": "17:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "30.10.2023",
+          "time": "12:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/holdovers"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14849194"
+        }
+      ],
+      "image": "holdovers.png"
+    },
+    {
+      "id": 105,
+      "name": "Le Temps Retrouvé",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2023",
+          "time": "20:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "30.12.2023",
+          "time": "17:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/temps-retrouve"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0189142"
+        }
+      ],
+      "image": "regain.png"
+    },
+    {
+      "id": 106,
+      "name": "La Práctica",
+      "score": "8.2",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2023",
+          "time": "15:30",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "30.12.2023",
+          "time": "15:45",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/practica"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28616751"
+        }
+      ],
+      "image": "practica.png"
+    },
+    {
+      "id": 107,
+      "name": "Vista Mare",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2023",
+          "time": "18:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2023",
+          "time": "13:30",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/vista-mare"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt21232692"
+        }
+      ],
+      "image": "vistamare.png"
+    },
+    {
+      "id": 108,
+      "name": "He Bian De Cuo Wu",
+      "score": "7.3",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "26.10.2023",
+          "time": "23:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "Urania",
+          "date": "27.10.2023",
+          "time": "22:15",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/he-bian-de-cuo-wu"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27590147"
+        }
+      ],
+      "image": "river.png"
+    },
+    {
+      "id": 109,
+      "name": "Low Life",
+      "score": "5.1",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "26.10.2023",
+          "time": "11:00",
+          "weekday": "Thursday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/low-life"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt1784515"
+        }
+      ],
+      "image": "low.png"
     }
     
 ]
