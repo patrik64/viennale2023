@@ -1978,6 +1978,634 @@
         }
       ],
       "image": "zapato.png"
+    },
+    {
+      "id": 67,
+      "name": "Huellas",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "23.10.2023",
+          "time": "18:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Urania",
+          "date": "25.10.2023",
+          "time": "13:30",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/huellas"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": ""
+        }
+      ],
+      "image": "traces.png"
+    },
+    {
+      "id": 68,
+      "name": "El juicio",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "23.10.2023",
+          "time": "20:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/juicio"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt11396282"
+        }
+      ],
+      "image": "juicio.png"
+    },
+    {
+      "id": 69,
+      "name": "Dialogue d'exilés",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "23.10.2023",
+          "time": "11:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "03.12.2023",
+          "time": "18:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/dialogue-dexiles"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0071427"
+        }
+      ],
+      "image": "exile.png"
+    },
+    {
+      "id": 70,
+      "name": "La Nuit Bengali",
+      "score": "5.9",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "23.10.2023",
+          "time": "13:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/dialogue-dexiles"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0095759"
+        }
+      ],
+      "image": "bengali.png"
+    },
+    {
+      "id": 71,
+      "name": "Klimt",
+      "score": "5.1",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "23.10.2023",
+          "time": "16:00",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Filmmuseum",
+          "date": "06.12.2023",
+          "time": "18:00",
+          "weekday": "Saturday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/klimt"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0417871"
+        }
+      ],
+      "image": "klimt.png"
+    },
+    {
+      "id": 72,
+      "name": "Allensworth",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "23.10.2023",
+          "time": "18:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "Stadtkino",
+          "date": "27.10.2023",
+          "time": "13:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/allensworth"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt22927636"
+        }
+      ],
+      "image": "allensworth.png"
+    },
+    {
+      "id": 73,
+      "name": "Nuit obscure - Au revoir ici, n'importe où",
+      "score": "6.7",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "23.10.2023",
+          "time": "18:30",
+          "weekday": "Monday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nuit-obscure-au-revoir-ici-nimporte-ou"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt28379450"
+        }
+      ],
+      "image": "nuit.png"
+    },
+    {
+      "id": 74,
+      "name": "Rapito",
+      "score": "7.1",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2023",
+          "time": "12:45",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "30.10.2023",
+          "time": "15:30",
+          "weekday": "Monday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/rapito"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14137416"
+        }
+      ],
+      "image": "rapito.png"
+    },
+    {
+      "id": 75,
+      "name": "Ferrari",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2023",
+          "time": "15:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "27.10.2023",
+          "time": "13:00",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ferrari"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt3758542"
+        }
+      ],
+      "image": "ferrari.png"
+    },
+    {
+      "id": 76,
+      "name": "La Bête",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Gartenbaukino",
+          "date": "24.10.2023",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2023",
+          "time": "14:30",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/bete"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14407336"
+        }
+      ],
+      "image": "beast.png"
+    },
+    {
+      "id": 77,
+      "name": "The Feeling That the Time for Doing Something Has Passed",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2023",
+          "time": "13:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/feeling-time-doing-something-has-passed"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt27722061"
+        }
+      ],
+      "image": "time.png"
+    },
+    {
+      "id": 78,
+      "name": "La Passion de Dodin Bouffant",
+      "score": "7.5",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2023",
+          "time": "18:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "26.10.2023",
+          "time": "11:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/passion-de-dodin-bouffant"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt19760052"
+        }
+      ],
+      "image": "taste.png"
+    },
+    {
+      "id": 79,
+      "name": "Joan Baez - I Am a Noise",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Stadtkino",
+          "date": "24.10.2023",
+          "time": "21:15",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Urania",
+          "date": "29.10.2023",
+          "time": "13:30",
+          "weekday": "Thursday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/joan-baez-i-am-noise"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26594061"
+        }
+      ],
+      "image": "baez.png"
+    },
+    {
+      "id": 80,
+      "name": "L'eté dernier",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "24.10.2023",
+          "time": "18:45",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2023",
+          "time": "21:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/ete-dernier"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt14550346"
+        }
+      ],
+      "image": "summer.png"
+    },
+    {
+      "id": 81,
+      "name": "Sur L'Adamant",
+      "score": "6.8",
+      "shows" : [
+        {
+          "kino": "Urania",
+          "date": "24.10.2023",
+          "time": "21:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Gartenbaukino",
+          "date": "25.10.2023",
+          "time": "12:00",
+          "weekday": "Wednesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/sur-ladamant"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt26448811"
+        }
+      ],
+      "image": "adamant.png"
+    },
+    {
+      "id": 82,
+      "name": "The Woman on the Beach",
+      "score": "6.4",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "24.10.2023",
+          "time": "16:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Metro",
+          "date": "31.10.2023",
+          "time": "14:00",
+          "weekday": "Tuesday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/woman-beach"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0040000"
+        }
+      ],
+      "image": "beach.png"
+    },
+    {
+      "id": 83,
+      "name": "Nous disons révolution",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "24.10.2023",
+          "time": "18:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/nous-disons-revolution-0"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt15082814"
+        }
+      ],
+      "image": "revolution.png"
+    },
+    {
+      "id": 84,
+      "name": "Angst",
+      "score": "7.2",
+      "shows" : [
+        {
+          "kino": "Metro",
+          "date": "24.10.2023",
+          "time": "21:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/angst"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0165623"
+        }
+      ],
+      "image": "angst.png"
+    },
+    {
+      "id": 85,
+      "name": "Paria",
+      "score": "",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "24.10.2023",
+          "time": "13:30",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "",
+          "date": "",
+          "time": "",
+          "weekday": ""
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/paria"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0262674"
+        }
+      ],
+      "image": "paria.png"
+    },
+    {
+      "id": 86,
+      "name": "La Telenovela Errante",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "24.10.2023",
+          "time": "13:30",
+          "weekday": "Tuesday"
+        },La Telenovela Errante
+          "date": "22.12.2023",
+          "time": "20:30",
+          "weekday": "Friday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/telenovela-errante"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0100275"
+        }
+      ],
+      "image": "telenovela.png"
+    },
+    {
+      "id": 87,
+      "name": "I Heard It Through The Grapevine",
+      "score": "6.5",
+      "shows" : [
+        {
+          "kino": "Filmmuseum",
+          "date": "24.10.2023",
+          "time": "19:00",
+          "weekday": "Tuesday"
+        },
+        {
+          "kino": "Metro",
+          "date": "29.10.2023",
+          "time": "16:00",
+          "weekday": "Sunday"
+        }
+      ],
+      "links": [
+        {
+          "lkey": "viennale",
+          "lvalue": "https://www.viennale.at/en/film/i-heard-it-through-grapevine"
+        },
+        {
+          "lkey": "imdb",
+          "lvalue": "https://www.imdb.com/title/tt0151007"
+        }
+      ],
+      "image": "grapewine.png"
     }
     
 ]
