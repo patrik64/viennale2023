@@ -1,4 +1,5 @@
 <script>
+  import Youtube from "svelte-youtube-embed";
   export let data;
 
   let id = '';
@@ -60,6 +61,12 @@
       <div class="py-4 sm:py-5 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-6">
         <dt class="text-sm font-medium text-gray-600">Show 2</dt>
         <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2">{movie.shows[1].date} - {movie.shows[1].time}h - {movie.shows[1].weekday} - {movie.shows[1].kino}</dd>
+      </div>
+      {/if}
+      {#if movie.trailer}
+      <div class="py-4 sm:py-5 sm:grid sm:grid-cols-4 sm:gap-4 sm:px-6">
+        <dt class="text-sm font-medium text-gray-600">Trailer</dt>
+        <dd class="mt-1 text-sm text-gray-600 sm:mt-0 sm:col-span-2"><Youtube id="{movie.trailer}" /></dd>
       </div>
       {/if}
     </dl>
