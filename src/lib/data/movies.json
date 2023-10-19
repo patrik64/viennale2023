@@ -671,10 +671,11 @@
           "lvalue": "https://www.viennale.at/en/film/qingchun-chun"
         },
         {
-          "lkey": "imdb",
+          "lkey": "imdb","trailer": "ozSQSIWJAfQ",
           "lvalue": "https://www.imdb.com/title/tt8469104"
         }
       ],
+      "trailer": "ozSQSIWJAfQ",
       "image": "youth.png"
     },
     {
@@ -708,6 +709,7 @@
           "lvalue": "https://www.imdb.com/title/tt0070596"
         }
       ],
+      "trailer": "udY7-1qvbVc",
       "image": "socialista.png"
     },
     {
@@ -741,12 +743,13 @@
           "lvalue": "https://www.imdb.com/title/tt26219766"
         }
       ],
+      "trailer": "HhL9IFiK1Z4",
       "image": "fiona.png"
     },
     {
       "id": 23,
       "name": "Le Grand Chariot",
-      "engname": "The Big Cart",
+      "engname": "The Plough",
       "year": "2023",
       "length": "1h 35m",
       "score": "6.1",
@@ -774,6 +777,7 @@
           "lvalue": "https://www.imdb.com/title/tt15531718"
         }
       ],
+      "trailer": "LA0TeBu_rTo",
       "image": "chariot.png"
     },
     {
@@ -807,6 +811,7 @@
           "lvalue": "https://www.imdb.com/title/tt23736044"
         }
       ],
+      "trailer": "Dr1mOzqYzXI",
       "image": "monster.png"
     },
     {
@@ -840,6 +845,7 @@
           "lvalue": "https://www.imdb.com/title/tt26440619"
         }
       ],
+      "trailer": "Ss0jpO3txVQ",
       "image": "afire.png"
     },
     {
@@ -873,6 +879,7 @@
           "lvalue": "https://www.imdb.com/title/tt13231544"
         }
       ],
+      "trailer": "DGH5BV93zOU",
       "image": "dry.png"
     },
     {
@@ -906,6 +913,7 @@
           "lvalue": "https://www.imdb.com/title/tt27706804"
         }
       ],
+      "trailer": "U6mbWphD5RM",
       "image": "prince.png"
     },
     {
@@ -939,6 +947,7 @@
           "lvalue": "https://www.imdb.com/title/tt27127118"
         }
       ],
+      "trailer": "735LrZ43z4g",
       "image": "outro.png"
     },
     {
@@ -972,6 +981,7 @@
           "lvalue": "https://www.imdb.com/title/tt26448952"
         }
       ],
+      "trailer": "xGTU938mTWI",
       "image": "klezmer.png"
     },
     {
@@ -1015,7 +1025,7 @@
       "length": "1h 35m",
       "score": "7.1",
       "shows" : [
-        {
+        {"trailer": "fXmqc9nYMsM",
           "kino": "Stadtkino",
           "date": "21.10.2023",
           "time": "23:15",
@@ -1038,6 +1048,7 @@
           "lvalue": "https://www.imdb.com/title/tt28497692"
         }
       ],
+      "trailer": "fXmqc9nYMsM",
       "image": "hokage.png"
     },
     {
@@ -1104,6 +1115,7 @@
           "lvalue": "https://www.imdb.com/title/tt25750836"
         }
       ],
+      "trailer": "jtVD4mH5Q18",
       "image": "hounds.png"
     },
     {
@@ -1137,6 +1149,7 @@
           "lvalue": "https://www.imdb.com/title/tt27502227"
         }
       ],
+      "trailer": "MnaXiguPZVQ",
       "image": "ghosts.png"
     },
     {
@@ -1170,6 +1183,7 @@
           "lvalue": "https://www.imdb.com/title/tt0065165"
         }
       ],
+      "trailer": "rKD6fdrRjP0",
       "image": "valparaiso.png"
     },
     {
@@ -1203,6 +1217,7 @@
           "lvalue": "https://www.imdb.com/title/tt23182000"
         }
       ],
+      "trailer": "Nb_xjpwmeio",
       "image": "clorindo.png"
     },
     {
@@ -1236,6 +1251,7 @@
           "lvalue": "https://www.imdb.com/title/tt0064147"
         }
       ],
+      "trailer": "_8MkYj28kxw",
       "image": "jackal.png"
     },
     {
@@ -1269,6 +1285,7 @@
           "lvalue": "https://www.imdb.com/title/tt10399622"
         }
       ],
+      "trailer": "e_xgiGVA5IE",
       "image": "shell.png"
     },
     {
@@ -1302,6 +1319,7 @@
           "lvalue": "https://www.imdb.com/title/tt0090199"
         }
       ],
+      "trailer": "EjuszKJcQKE",
       "image": "treasure.png"
     },
     {
@@ -1335,6 +1353,7 @@
           "lvalue": "https://www.imdb.com/title/tt0086545"
         }
       ],
+      "trailer": "T3a-sAbbGrE",
       "image": "pirates.png"
     },
     {
@@ -1368,6 +1387,7 @@
           "lvalue": "https://www.imdb.com/title/tt27502250"
         }
       ],
+      "trailer": "JYb4wDJKpsQ",
       "image": "anselm.png"
     },
     {
@@ -1401,6 +1421,7 @@
           "lvalue": "https://www.imdb.com/title/tt26441793"
         }
       ],
+      "trailer": "2JXmg1Uzv70",
       "image": "tower.png"
     },
     {
@@ -1434,6 +1455,7 @@
           "lvalue": "https://www.imdb.com/title/tt18235146"
         }
       ],
+      "trailer": "AzxWBX8T4sc",
       "image": "club.png"
     },
     {
@@ -1467,6 +1489,7 @@
           "lvalue": "https://www.imdb.com/title/tt27503384"
         }
       ],
+      "trailer": "HTgWYojq-z8",
       "image": "perfect.png"
     },
     {
@@ -1500,6 +1523,7 @@
           "lvalue": "https://www.imdb.com/title/tt23476446"
         }
       ],
+      "trailer": "b5iRqlG5RdU",
       "image": "dali.png"
     },
     {
@@ -1533,6 +1557,7 @@
           "lvalue": "https://www.imdb.com/title/tt16731908"
         }
       ],
+      "trailer": "Tj2SzXLyADw",
       "image": "bright.png"
     },
     {
@@ -1566,6 +1591,7 @@
           "lvalue": "https://www.imdb.com/title/tt21992080"
         }
       ],
+      "trailer": "NatWR-9iqBk",
       "image": "amitie.png"
     },
     {
@@ -1632,6 +1658,7 @@
           "lvalue": "https://www.imdb.com/title/tt0174035"
         }
       ],
+      "trailer": "uthPasG_9EU",
       "image": "morir.png"
     },
     {
@@ -1665,6 +1692,7 @@
           "lvalue": "https://www.imdb.com/title/tt0063718"
         }
       ],
+      "trailer": "d0Qs5LLbvNo",
       "image": "tigres.png"
     },
     {
@@ -1698,6 +1726,7 @@
           "lvalue": "https://www.imdb.com/title/tt0124111"
         }
       ],
+      "trailer": "-nXc8W3w74I",
       "image": "udarnik.png"
     },
     {
@@ -1731,6 +1760,7 @@
           "lvalue": "https://www.imdb.com/title/tt0084824"
         }
       ],
+      "trailer": "NIILtoNpT6I",
       "image": "sailor.png"
     },
     {
@@ -1764,6 +1794,7 @@
           "lvalue": "https://www.imdb.com/title/tt22041854"
         }
       ],
+      "trailer": "DBWk6BohVXk",
       "image": "priscilla.png"
     },
     {
@@ -1797,6 +1828,7 @@
           "lvalue": "https://www.imdb.com/title/tt15140278"
         }
       ],
+      "trailer": "Ohcoh0KRvxg",
       "image": "coup.png"
     },
     {
@@ -1830,6 +1862,7 @@
           "lvalue": "https://www.imdb.com/title/tt26255954"
         }
       ],
+      "trailer": "XC3-6nVxTfM",
       "image": "europa.png"
     },
     {
@@ -1863,6 +1896,7 @@
           "lvalue": "https://www.imdb.com/title/tt17009710"
         }
       ],
+      "trailer": "fTrsp5BMloA",
       "image": "fall.png"
     },
     {
@@ -1896,6 +1930,7 @@
           "lvalue": "https://www.imdb.com/title/tt28449053"
         }
       ],
+      "trailer": "DWUG1f0R1TY",
       "image": "snow.png"
     },
     {
@@ -1929,14 +1964,15 @@
           "lvalue": "https://www.imdb.com/title/tt28660274"
         }
       ],
+      "trailer": "bgir2_gHFpw",
       "image": "world.png"
     },
     {
       "id": 59,
       "name": "Mars Express",
-      "engname": "2023",
-      "year": "1h 25m",
-      "length": "",
+      "engname": "Mars Express",
+      "year": "2023",
+      "length": "1h 25m",
       "score": "7.4",
       "shows" : [
         {
@@ -1962,6 +1998,7 @@
           "lvalue": "https://www.imdb.com/title/tt26915336"
         }
       ],
+      "trailer": "VG0bJHwUR0I",
       "image": "mars.png"
     },
     {
