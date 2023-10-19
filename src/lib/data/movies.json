@@ -166,6 +166,7 @@
           "lvalue": "https://www.imdb.com/title/tt12965010"
         }
       ],
+      "trailer": "GlQynrCZidg",
       "image": "eureka.png"
     },
     {
@@ -199,6 +200,7 @@
           "lvalue": "https://www.imdb.com/title/tt18558306"
         }
       ],
+      "trailer": "sxxbOFfagKI",
       "image": "delinquents.png"
     },
     {
@@ -232,11 +234,12 @@
           "lvalue": "https://www.imdb.com/title/tt13429870"
         }
       ],
+      "trailer": "ZcBkxImKrrI",
       "image": "robot.png"
     },
     {
       "id": 8,
-      "name": "Musik",
+      "name": "Music",
       "engname": "Music",
       "year": "2023",
       "length": "1h 48m",
@@ -265,6 +268,7 @@
           "lvalue": "https://www.imdb.com/title/tt15547924"
         }
       ],
+      "trailer": "mA9zVCsDwQA",
       "image": "music.png"
     },
     {
@@ -298,6 +302,7 @@
           "lvalue": "https://www.imdb.com/title/tt21867434"
         }
       ],
+      "trailer": "cXL_HDzBQsM",
       "image": "blackberry.png"
     },
     {
@@ -331,6 +336,7 @@
           "lvalue": "https://www.imdb.com/title/tt16160622"
         }
       ],
+      "trailer": "U7XhGhN9QKs",
       "image": "goldman.png"
     },
     {
@@ -364,6 +370,7 @@
           "lvalue": "https://www.imdb.com/title/tt27502245"
         }
       ],
+      "trailer": "lZ_yTL-ocTI",
       "image": "crowra.png"
     },
     {
@@ -397,6 +404,7 @@
           "lvalue": "https://www.imdb.com/title/tt26448953"
         }
       ],
+      "trailer": "w1NWs_yMd_8",
       "image": "echo.png"
     },
     {
@@ -430,6 +438,7 @@
           "lvalue": "https://www.imdb.com/title/tt28300011"
         }
       ],
+      "trailer": "e2To1Zv-k70",
       "image": "ricardo.png"
     },
     {
@@ -463,6 +472,7 @@
           "lvalue": "https://www.imdb.com/title/tt21086802"
         }
       ],
+      "trailer": "XO-gw2V_C44",
       "image": "augure.png"
     },
     {
@@ -496,6 +506,7 @@
           "lvalue": "https://www.imdb.com/title/tt26315142"
         }
       ],
+      "trailer": "QC6OWdUPZPc",
       "image": "totem.png"
     },
     {
@@ -529,6 +540,7 @@
           "lvalue": "https://www.imdb.com/title/tt0140894"
         }
       ],
+      "trailer": "-SW8Ws4LV3Y",
       "image": "chile.png"
     },
     {
@@ -562,6 +574,7 @@
           "lvalue": "https://www.imdb.com/title/tt28254671"
         }
       ],
+      "trailer": "ndhCn0iiRuE",
       "image": "kenopsia.png"
     },
     {
@@ -595,6 +608,7 @@
           "lvalue": "https://www.imdb.com/title/tt27656132"
         }
       ],
+      "trailer": "0PNWJsr7hOU",
       "image": "reason.png"
     },
     {
